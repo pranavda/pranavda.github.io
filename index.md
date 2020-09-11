@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## Hi, I'm Pranav
 
-You can use the [editor on GitHub](https://github.com/pranavda/pranavda.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Pranav Agrawal is not a penguin. He is a software Engineer at Facebook, and a graduate student on leave from the Computer Science department at the University of Washington. ~One day, he shall return — a prodigal son — and finish his PhD.~ Although he is interested in everything that exists in the universe, he currently focuses on mobile systems, and is driven by a strong desire to learn everything there is to learn about Android, to help make mobile apps suck less. He enjoys solving puzzles, playing racquet sports, and gyring and gimbling in the wabe with the slithy toves and mimsy borogoves.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pranavda/pranavda.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image](https://lh3.googleusercontent.com/vZKHGLK2uqyXaMXrIh0tvcoNavIuzn_KrbMTVFc4Rz9hCyR_meV413dCS6zTtE6-bGnGMdrdR8xLjzI3BamdKB3yQitszYVTDCreQeP33maa3WqTG4FWtDWJSZNkLrDXDW8tvfU2XoFUQmz13NUw24YrTxdJTQjSyxP39sLPl4xHhcf6Oeo2Pz2H-esRSgHe4Dust_kenZ-HwYQs2X1PYeL3nDdq2AbbXZcW6PZaaOgC7WR053EjzR9Y0FoirBc24F8-5ukLlCxzz9pX-FPzA2YpyotAYXzaTFrVoXE5KuEtxzAEpVNqXBI3kIsXpnH-nVaY8q1o_Xe3f2MhLWQ5iSQVp_QSwRQNr5hzAtbTV3qdIYNmMB7jkiRhBAWeysHqhJNg7yO3aofB2Ud-ybQ5CgGx3b5kIUEZqKwKpq3ObpLWkeaoaYsjkBMGbbMsiqvbnYVAbhyywW_9QGB5pX3YwFnoBzXR9caLBbz0HvoJFJ8wXYvfemOs2rlAjqfsmxsisVasolAtyS2HI73xsPM5VAsCJHq0erNucUQBngrkMxkIM_JsklFV9iD5XRCerWAgoynjbUFzLTcn6OCQvOMrt2pcaoFFP9NFhP4jOTLRkJWDgE8jfu1M6gwiVoE-M6jZBw4SylgLon6vYd1HHSV-CljIrJ0SY6Hyv2w_WyeCZwQZ4oGPn5p0t5yXyd8aWqU=w1132-h1508-no?authuser=2)
